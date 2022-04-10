@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3859863F1A4E047d4004E5eA6fd4F8042C741fe2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x3859863f1a4e047d4004e5ea6fd4f8042c741fe2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BetaSportApes NFT",
+  "SYMBOL": "BSA",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/betasportapes",
+  "SHOW_BACKGROUND": true
+}
